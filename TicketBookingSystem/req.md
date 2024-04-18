@@ -3,6 +3,7 @@
 
 1. Sign up / Sign in
 2. Search for trains (source to destination)
+ - store data in DB
 3. Check seat availability
 4. Book Tickets
 5. Fetch / Download booked tickets
