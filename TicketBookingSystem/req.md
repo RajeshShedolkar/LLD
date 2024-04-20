@@ -5,5 +5,5 @@
 2. Search for trains (source to destination)
  - store data in DB
 3. Check seat availability
-4. Book Tickets
+4. Book Tickets and send notification asynchronously
 5. Fetch / Download booked tickets
